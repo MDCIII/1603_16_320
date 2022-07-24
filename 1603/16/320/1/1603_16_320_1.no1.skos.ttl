@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:320()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:1" ;
     skos:prefLabel "Guatemala"@spa-Latn ;
-    wdata:q7200235 "GT01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -61,7 +59,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:10" ;
     skos:prefLabel "Suchitepéquez"@spa-Latn ;
-    wdata:q7200235 "GT10" ;
 .
 
 <urn:mdciii:1603:16:320:1:11>
@@ -70,7 +67,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:11" ;
     skos:prefLabel "Retalhuleu"@spa-Latn ;
-    wdata:q7200235 "GT11" ;
 .
 
 <urn:mdciii:1603:16:320:1:12>
@@ -79,7 +75,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:12" ;
     skos:prefLabel "San Marcos"@spa-Latn ;
-    wdata:q7200235 "GT12" ;
 .
 
 <urn:mdciii:1603:16:320:1:13>
@@ -88,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:13" ;
     skos:prefLabel "Huehuetenango"@spa-Latn ;
-    wdata:q7200235 "GT13" ;
 .
 
 <urn:mdciii:1603:16:320:1:14>
@@ -97,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:14" ;
     skos:prefLabel "Quiché"@spa-Latn ;
-    wdata:q7200235 "GT14" ;
 .
 
 <urn:mdciii:1603:16:320:1:15>
@@ -106,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:15" ;
     skos:prefLabel "Baja Verapaz"@spa-Latn ;
-    wdata:q7200235 "GT15" ;
 .
 
 <urn:mdciii:1603:16:320:1:16>
@@ -115,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:16" ;
     skos:prefLabel "Alta Verapaz"@spa-Latn ;
-    wdata:q7200235 "GT16" ;
 .
 
 <urn:mdciii:1603:16:320:1:17>
@@ -124,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:17" ;
     skos:prefLabel "Petén"@spa-Latn ;
-    wdata:q7200235 "GT17" ;
 .
 
 <urn:mdciii:1603:16:320:1:18>
@@ -133,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:18" ;
     skos:prefLabel "Izabal"@spa-Latn ;
-    wdata:q7200235 "GT18" ;
 .
 
 <urn:mdciii:1603:16:320:1:19>
@@ -142,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:19" ;
     skos:prefLabel "Zacapa"@spa-Latn ;
-    wdata:q7200235 "GT19" ;
 .
 
 <urn:mdciii:1603:16:320:1:2>
@@ -151,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:2" ;
     skos:prefLabel "El Progreso"@spa-Latn ;
-    wdata:q7200235 "GT02" ;
 .
 
 <urn:mdciii:1603:16:320:1:20>
@@ -160,7 +147,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:20" ;
     skos:prefLabel "Chiquimula"@spa-Latn ;
-    wdata:q7200235 "GT20" ;
 .
 
 <urn:mdciii:1603:16:320:1:21>
@@ -169,7 +155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:21" ;
     skos:prefLabel "Jalapa"@spa-Latn ;
-    wdata:q7200235 "GT21" ;
 .
 
 <urn:mdciii:1603:16:320:1:22>
@@ -178,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:22" ;
     skos:prefLabel "Jutiapa"@spa-Latn ;
-    wdata:q7200235 "GT22" ;
 .
 
 <urn:mdciii:1603:16:320:1:3>
@@ -187,7 +171,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:3" ;
     skos:prefLabel "Sacatepéquez"@spa-Latn ;
-    wdata:q7200235 "GT03" ;
 .
 
 <urn:mdciii:1603:16:320:1:4>
@@ -196,7 +179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:4" ;
     skos:prefLabel "Chimaltenango"@spa-Latn ;
-    wdata:q7200235 "GT04" ;
 .
 
 <urn:mdciii:1603:16:320:1:5>
@@ -205,7 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:5" ;
     skos:prefLabel "Escuintla"@spa-Latn ;
-    wdata:q7200235 "GT05" ;
 .
 
 <urn:mdciii:1603:16:320:1:6>
@@ -214,7 +195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:6" ;
     skos:prefLabel "Santa Rosa"@spa-Latn ;
-    wdata:q7200235 "GT06" ;
 .
 
 <urn:mdciii:1603:16:320:1:7>
@@ -223,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:7" ;
     skos:prefLabel "Sololá"@spa-Latn ;
-    wdata:q7200235 "GT07" ;
 .
 
 <urn:mdciii:1603:16:320:1:8>
@@ -232,7 +211,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:8" ;
     skos:prefLabel "Totonicapán"@spa-Latn ;
-    wdata:q7200235 "GT08" ;
 .
 
 <urn:mdciii:1603:16:320:1:9>
@@ -241,6 +219,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:320:1:9" ;
     skos:prefLabel "Quetzaltenango"@spa-Latn ;
-    wdata:q7200235 "GT09" ;
 .
 
